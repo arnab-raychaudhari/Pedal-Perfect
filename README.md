@@ -345,3 +345,28 @@ deploying the GWSB model in production.
 
 <img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/1d6feab41eb1a5c9d3e6da8639dbfed15eae8218/Auxiliary/Business%20Decision%20Matrix%20(level%201)%20%E2%80%93%20QoS%20Strategy.png" width="800" />
 
+<h3>Business Decision Matrix (level 2) – QoS Strategy</h3>
+
+<h3>Linear Regression - head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/ee36e7dd423c9a8ca5149017efffa0ba640a74e9/Auxiliary/QoS%20Strategy%20-%20Linear%20Regression%20-%20head.png" width="800" />
+
+<h3>Ridge Regression – head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/ee36e7dd423c9a8ca5149017efffa0ba640a74e9/Auxiliary/QoS%20Strategy%20-%20Ridge%20Regression%20%E2%80%93%20head.png" width="800" />
+
+<h3>Lasso Regression – head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/ee36e7dd423c9a8ca5149017efffa0ba640a74e9/Auxiliary/QoS%20Strategy%20-%20Lasso%20Regression%20%E2%80%93%20head.png" width="800" />
+
+<h3>ElasticNet – head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/ee36e7dd423c9a8ca5149017efffa0ba640a74e9/Auxiliary/QoS%20Strategy%20-%20ElasticNet%20%E2%80%93%20head.png" width="800" />
+
+<h3>KNN – head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/ee36e7dd423c9a8ca5149017efffa0ba640a74e9/Auxiliary/QoS%20Strategy%20-%20KNN%20%E2%80%93%20head.png" width="800" />
+
+<h3>Figure 1.1: Business Decision Matrix (Probabilities) – QoS Strategy</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/ee36e7dd423c9a8ca5149017efffa0ba640a74e9/Auxiliary/Business%20Decision%20Matrix%20(Probabilities)%20%E2%80%93%20QoS%20Strategy.png" width="800" />
