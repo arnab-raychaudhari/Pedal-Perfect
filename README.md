@@ -370,3 +370,45 @@ deploying the GWSB model in production.
 <h3>Figure 1.1: Business Decision Matrix (Probabilities) – QoS Strategy</h3>
 
 <img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/ee36e7dd423c9a8ca5149017efffa0ba640a74e9/Auxiliary/Business%20Decision%20Matrix%20(Probabilities)%20%E2%80%93%20QoS%20Strategy.png" width="800" />
+
+<h3>Figure 2.1: Beta coefficients and Model Performance for Pickups – Linear Regression w/o Cross
+Validation</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/Beta%20coefficients%20and%20Model%20Performance%20for%20Pickups.png" width="800" />
+
+<h3>Figure 2.2: Beta coefficients and Model Performance for Drop-offs – Linear Regression w/o Cross
+Validation</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/Beta%20coefficients%20and%20Model%20Performance%20for%20Drop-offs.png" width="800" />
+
+<h3>Figure 2.3: Model Performance Evaluation</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/Model%20Performance%20Evaluation.png" width="800" />
+
+<h3>Figure 2.4: Regularization in Ridge Regression</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/Regularization%20in%20Ridge%20Regression.png" width="800" />
+
+<h3>Figure 2.5: Regularization in Lasso</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/Regularization%20in%20Lasso.png" width="800" />
+
+<h3>Figure 2.6: MSE vs Alpha in Lasso</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/MSE%20vs%20Alpha%20in%20Lasso.png" width="800" />
+
+<h3>Figure 2.7: Regularization in ElasticNet</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/Regularization%20in%20ElasticNet.png" width="800" />
+
+<h3>Figure 2.8: Train and Test MSE for different K’s in KNN regression</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/Train%20and%20Test%20MSE%20for%20different%20K%E2%80%99s%20in%20KNN%20regression.png" width="800" />
+
+<h3>Figure 2.10: Cross Validation performance across Drop Off models</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/Cross%20Validation%20performance%20across%20Drop%20Off%20models.png" width="800" />
+
+<h3>Figure 2.11: Cross Validation performance across Drop Off models</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/5458ec26f3eb2b5cb64d32bf393467537593f9a0/Auxiliary/Fig%20-%20Cross%20Validation%20performance%20across%20Drop%20Off%20models.png" width="800" />
