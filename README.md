@@ -293,3 +293,25 @@ rewards, as it has the highest probability of <b>0.62</b> among the models consi
 more than 6 out of 10 instances, Capital Bikeshare could enhance the quality of their service by
 deploying the GWSB model in production.
 
+# Appendix
+
+<h3>Table 1.1: Mutual Information Scores for Pickup features</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/098ea154bd6b72ffb9a8e59457fbb2e0704eee0d/Auxiliary/Mutual%20Information%20Scores%20for%20Pickup%20features.png" width="800" />
+
+<h3>Table 1.2: Mutual Information Scores for Drop Off features</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/098ea154bd6b72ffb9a8e59457fbb2e0704eee0d/Auxiliary/Mutual%20Information%20Scores%20for%20Drop%20Off%20features.png" width="800" />
+
+<h3>Table 2.1: MSE vs Model Flexibility – Pickups</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/098ea154bd6b72ffb9a8e59457fbb2e0704eee0d/Auxiliary/MSE%20vs%20Model%20Flexibility%20%E2%80%93%20Pickups.png" width="800" />
+
+<h3>Table 2.2: MSE vs Model Flexibility – Drop Offs</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/098ea154bd6b72ffb9a8e59457fbb2e0704eee0d/Auxiliary/MSE%20vs%20Model%20Flexibility%20%E2%80%93%20Drop%20Offs.png" width="800" />
+
+<h3>Table 3.1: Business Decision Matrix (level 1) – Penalty Strategy</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/098ea154bd6b72ffb9a8e59457fbb2e0704eee0d/Auxiliary/MSE%20vs%20Model%20Flexibility%20%E2%80%93%20Drop%20Offs.png" width="800" />
+
