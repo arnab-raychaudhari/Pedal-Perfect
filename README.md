@@ -310,3 +310,8 @@ deploying the GWSB model in production.
 <h3>Table 2.2: MSE vs Model Flexibility – Drop Offs</h3>
 
 <img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/098ea154bd6b72ffb9a8e59457fbb2e0704eee0d/Auxiliary/MSE%20vs%20Model%20Flexibility%20%E2%80%93%20Drop%20Offs.png" width="800" />
+
+<h3>Table 3.1: Business Decision Matrix (level 1) – Penalty Strategy</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/098ea154bd6b72ffb9a8e59457fbb2e0704eee0d/Auxiliary/MSE%20vs%20Model%20Flexibility%20%E2%80%93%20Drop%20Offs.png" width="800" />
+
