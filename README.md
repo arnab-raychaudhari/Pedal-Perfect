@@ -313,5 +313,35 @@ deploying the GWSB model in production.
 
 <h3>Table 3.1: Business Decision Matrix (level 1) – Penalty Strategy</h3>
 
-<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/098ea154bd6b72ffb9a8e59457fbb2e0704eee0d/Auxiliary/MSE%20vs%20Model%20Flexibility%20%E2%80%93%20Drop%20Offs.png" width="800" />
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/1d6feab41eb1a5c9d3e6da8639dbfed15eae8218/Auxiliary/Business%20Decision%20Matrix%20(level%201)%20%E2%80%93%20Penalty%20Strategy.png" width="800" />
+
+<h3>Table 3.2: Business Decision Matrix (level 2) – Penalty Strategy</h3>
+
+<h3>Linear Regression – head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/1d6feab41eb1a5c9d3e6da8639dbfed15eae8218/Auxiliary/Linear%20Regression%20%E2%80%93%20head.png" width="800" />
+
+<h3>Ridge Regression - head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/1d6feab41eb1a5c9d3e6da8639dbfed15eae8218/Auxiliary/Ridge%20Regression%20-%20head.png" width="800" />
+
+<h3>Lasso – head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/1d6feab41eb1a5c9d3e6da8639dbfed15eae8218/Auxiliary/Lasso%20%E2%80%93%20head.png" width="800" />
+
+<h3>ElasticNet – head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/1d6feab41eb1a5c9d3e6da8639dbfed15eae8218/Auxiliary/ElasticNet%20%E2%80%93%20head.png" width="800" />
+
+<h3>KNN – head:</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/1d6feab41eb1a5c9d3e6da8639dbfed15eae8218/Auxiliary/KNN%20%E2%80%93%20head.png" width="800" />
+
+<h3>Table 3.3: Business Decision Matrix (Probabilities) – Penalty Strategy</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/1d6feab41eb1a5c9d3e6da8639dbfed15eae8218/Auxiliary/Business%20Decision%20Matrix%20(Probabilities)%20%E2%80%93%20Penalty%20Strategy.png" width="800" />
+
+<h3>Table 3.4: Business Decision Matrix (level 1) – QoS Strategy</h3>
+
+<img src="https://github.com/arnab-raychaudhari/Pedal-Perfect/blob/1d6feab41eb1a5c9d3e6da8639dbfed15eae8218/Auxiliary/Business%20Decision%20Matrix%20(level%201)%20%E2%80%93%20QoS%20Strategy.png" width="800" />
 
