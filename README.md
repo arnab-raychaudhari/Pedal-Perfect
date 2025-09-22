@@ -1,4 +1,4 @@
-# Pedal Perfect : Dynamic Demand Forecasting and Optimal Bike Allocation
+# Pedal Perfect : Machine Learning–Driven Demand Forecasting for Bike-Sharing Systems
 
 # Executive Summary
 
